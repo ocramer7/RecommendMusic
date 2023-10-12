@@ -2,21 +2,6 @@ import random
 import rumps
 import subprocess
 
-# playlist = [
-#     "Sunday Bloody Sunday🎵",
-#     "New Year's Day",
-#     "40",
-#     "The Miracle (Of Joey Ramone)",
-#     "Every Breaking Wave",
-#     "Song for Someone",
-#     "With or Without You",
-#     "Where The Streets Have No Name"
-# ]
-# with open ('music_playlist.txt', 'r') as music_file:
-#     playlist = music_file.read().splitlines()
-    # print(playlist)
-    # for i in playlist:
-    #     print(i)
 class RecommendedSong(object):
     def __init__(self):
         self.config = {
