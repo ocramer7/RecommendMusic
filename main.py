@@ -1,6 +1,6 @@
 import random
 import rumps
-import subprocess, time
+import subprocess
 
 # playlist = [
 #     "Sunday Bloody Sunday🎵",
